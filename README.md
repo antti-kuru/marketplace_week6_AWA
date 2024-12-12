@@ -9,3 +9,6 @@ Technologies used:
 - Multer for image storing
 - uuid (V4) for creating unique id for pictures
 - Materialize CSS
+
+
+![image](https://github.com/user-attachments/assets/afffdace-6f8f-414e-a1f5-10a805c18aa0)
